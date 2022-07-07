@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.lang.System"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
-<fullyQualifiedTypeName name="javax.sound.midi.Soundbank"/>
 <fullyQualifiedTypeName name="com.sun.javafx.geom.transform.SingularMatrixException"/>
 <fullyQualifiedTypeName name="sec07.exam01_enum.EnumWeekExample"/>
 <fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="javax.sound.midi.Soundbank"/>
 <fullyQualifiedTypeName name="sec07.exam01_enum.Week"/>
+<fullyQualifiedTypeName name="sec04.exam01_class_java.Student"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="sec06.exam01_field_declaration.Car"/>
 </qualifiedTypeNameHistroy>
